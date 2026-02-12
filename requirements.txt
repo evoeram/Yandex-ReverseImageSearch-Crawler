@@ -1,0 +1,17 @@
+# Core crawler stack
+playwright>=1.45.0
+
+# Async/network/progress
+aiohttp>=3.9.0
+aiofiles>=23.2.1
+tqdm>=4.66.0
+
+# Image processing and duplicate detection
+Pillow>=10.3.0
+imagehash>=4.3.1
+numpy>=1.26.0
+
+# Quality estimation pipeline (heavy, optional CPU/GPU)
+torch>=2.2.0
+pyiqa>=0.1.13
+psutil>=5.9.0
