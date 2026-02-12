@@ -22,9 +22,8 @@
 4. [Быстрый старт](#быстрый-старт)
 5. [Подробный workflow (1 → 7)](#подробный-workflow-1--7)
 6. [Схема БД SQLite](#схема-бд-sqlite)
-7. [CI/CD и релизный пайплайн](#cicd-и-релизный-пайплайн)
-8. [Troubleshooting](#troubleshooting)
-9. [Рекомендации по production-использованию](#рекомендации-по-production-использованию)
+7. [Troubleshooting](#troubleshooting)
+8. [Рекомендации по production-использованию](#рекомендации-по-production-использованию)
 
 ---
 
